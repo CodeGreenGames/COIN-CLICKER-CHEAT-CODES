@@ -27,3 +27,16 @@ L8CS9-0000 = 1,000,000 dollars in the
 <Wallpaper_8/> = wallpaper 8
 <Wallpaper_9/> = wallpaper 9
 
+<Upgrade_+4/> = CoinPower 1 
+<Upgrade_+10/> = CoinPower 2,3
+<Upgrade_+100/> = CoinPower 4
+
+<Upgrade_speed_1/> = Overclock 1
+<Upgrade_speed_2/> = Overclock 2
+<Upgrade_speed_1/> = Overclock 3
+
+<Upgrade_superclick_1/> = +Tap 1
+<Upgrade_superclick_2/> = +Tap 2
+<Upgrade_superclick_3/> = +Tap 3
+<Upgrade_superclick_4/> = +Tap 4
+<Upgrade_superclick_5/> = +Tap 5
